@@ -1,8 +1,8 @@
 <html>
 <head>
   <title>Login</title>
-  <link href="css/css1.css" rel="stylesheet" type="text/css">
-  <link href="css/css2.css" rel="stylesheet" type="text/css">
+  <link href="css1.css" rel="stylesheet" type="text/css">
+  <link href="css2.css" rel="stylesheet" type="text/css">
   <script src="https://sdk.accountkit.com/en_US/sdk.js"></script>
 </head>
 <body>
