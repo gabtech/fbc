@@ -32,8 +32,8 @@ $email = isset($data['email']) ? $data['email']['address'] : '';
 <html class="" id="facebook" lang="en">
 <head>
   <title id="pageTitle">Welcome!</title>
-  <link href="css/css1.css" rel="stylesheet" type="text/css">
-  <link href="css/css2.css" rel="stylesheet" type="text/css">
+  <link href="css1.css" rel="stylesheet" type="text/css">
+  <link href="css2.css" rel="stylesheet" type="text/css">
 </head>
 <body>
   <div class="_5xrk">
